@@ -1,0 +1,5 @@
+pip command :-
+
+pip install pinecone-client sentence-transformers kaggle annoy PySimpleGUI
+
+run this command in terminal to download the required files
