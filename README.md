@@ -55,7 +55,7 @@ python3 GUI.py
 
 Here is the youtube link for the demonstration of the project
 
-[![Watch the demonstration video](https://youtu.be/XptYA3fQBCU)
+- [Watch the demonstration video](https://youtu.be/XptYA3fQBCU/)
 
 
 ## Contributing
