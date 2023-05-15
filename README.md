@@ -50,6 +50,14 @@ python3 GUI.py
 4. The GUI window will appear, allowing you to input your movie query or preferences.
 
 5. Upon submitting the query, the system will utilize the Sentence Transformer model and Pinecone Search to generate and display relevant movie recommendations.
+
+## Demonstration
+
+Here is the youtube link for the demonstration of the project
+
+[![Watch the demonstration video](https://youtu.be/XptYA3fQBCU)
+
+
 ## Contributing
 
 Contributions are always welcome!
